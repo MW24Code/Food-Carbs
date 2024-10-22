@@ -33,7 +33,7 @@ Create Columns: Start by setting up the necessary columns for your data:
 
 Save as .csv: Once you've entered all your data, save the file in .csv format. In Excel, you can do this by selecting “Save As” and choosing “CSV (Comma delimited) (*.csv)” from the file type options. In Google Sheets, go to “File” > “Download” > “Comma-separated values (.csv)”.
 
-An example of the .csv file is provided to help you format your data correctly.
+An example of the .csv file is provided to help you format your data correctly. You can open the .csv file in a spreadsheet program, such as Microsoft Excel or Google Sheets, to view and edit the data.
 
 ### Uploading Data to the Web App:
 Access the Web App: Open the Food Carbs application in your web browser.
