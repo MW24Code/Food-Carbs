@@ -1,7 +1,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://mw24code.github.io/Food-Carbs/)
+<h3 align="center">Food Carbs</h3>
+
+  <p align="center">
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+  </p>
+</div>
 
 The Food Carbs project on GitHub is a web application specifically designed to assist individuals with Type 1 diabetes in managing their carbohydrate intake. The platform allows users to search for various food items and access detailed nutritional information, focusing on carbohydrate content, which is crucial for effectively managing insulin levels. Users will need to create a .csv file to input their data, enabling better tracking of their carbohydrate consumption and meal logging. The application aims to empower users to make informed dietary choices and may include features like meal planning suggestions tailored to their needs. Overall, the project seeks to support better diabetes management and promote healthier eating habits.
 
