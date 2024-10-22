@@ -4,7 +4,7 @@
 <h3 align="center">Food Carbs</h3>
 
   <p align="center">
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://mw24code.github.io/Food-Carbs/">View Demo</a>
   </p>
 </div>
 
