@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #333;
+    text-align: center; /* Center the heading */
+}
+
+.top-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Space out elements */
+    margin-bottom: 20px; /* Space between rows */
+    width: 100%; /* Ensure full width */
+}
+
+input[type="file"],
+input[type="text"] {
+    padding: 10px;
+    margin: 5px; /* Margin for spacing */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex: 1; /* Allow inputs to take up equal width */
+    box-sizing: border-box;
+    height: 40px; /* Set a consistent height */
+}
+
+h2 {
+    margin: 0 20px; /* Spacing around Total Carbs */
+    display: flex; /* Make it a flex container */
+    align-items: center; /* Center the content vertically */
+    height: 40px; /* Match height with input fields */
+    border: 1px solid #ccc; /* Add border to match inputs */
+    padding: 10px; /* Add padding for spacing */
+    border-radius: 4px; /* Match border radius */
+    box-sizing: border-box; /* Ensure padding is included in total width/height */
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+    }
+
+    input[type="file"],
+    input[type="text"],
+    button {
+        width: 100%; /* Make inputs and buttons full width on small screens */
+        margin: 5px 0; /* Adjust margin for stacked layout */
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+}
